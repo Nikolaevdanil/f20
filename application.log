@@ -1,0 +1,184 @@
+3324 [restartedMain] INFO  com.example.demo.DemoApplication –Starting DemoApplication using Java 11.0.5 on DESKTOP-ILP6FKH with PID 2324 (C:\Users\Danya\IdeaProjects\DanilNachalo20\target\classes started by Danya in C:\Users\Danya\IdeaProjects\DanilNachalo20)
+3417 [restartedMain] INFO  com.example.demo.DemoApplication –No active profile set, falling back to default profiles: default
+3527 [background-preinit] INFO  o.h.validator.internal.util.Version –HV000001: Hibernate Validator 6.1.7.Final
+3935 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor –Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+3936 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor –For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+8232 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate –Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+8342 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate –Finished Spring Data repository scanning in 95 ms. Found 2 JPA repository interfaces.
+11314 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer –Tomcat initialized with port(s): 8082 (http)
+11343 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol –Initializing ProtocolHandler ["http-nio-8082"]
+11344 [restartedMain] INFO  o.a.catalina.core.StandardService –Starting service [Tomcat]
+11345 [restartedMain] INFO  o.a.catalina.core.StandardEngine –Starting Servlet engine: [Apache Tomcat/9.0.45]
+11744 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] –Initializing Spring embedded WebApplicationContext
+11745 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext –Root WebApplicationContext: initialization completed in 7805 ms
+12586 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper –HHH000204: Processing PersistenceUnitInfo [name: default]
+12752 [restartedMain] INFO  org.hibernate.Version –HHH000412: Hibernate ORM core version 5.4.30.Final
+13136 [restartedMain] INFO  o.h.annotations.common.Version –HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+13438 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource –HikariPool-1 - Starting...
+13949 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource –HikariPool-1 - Start completed.
+13991 [restartedMain] INFO  org.hibernate.dialect.Dialect –HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+17092 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator –HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+17107 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean –Initialized JPA EntityManagerFactory for persistence unit 'default'
+17144 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer –LiveReload server is running on port 35729
+18908 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration –spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19264 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor –Initializing ExecutorService 'applicationTaskExecutor'
+20179 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver –Exposing 2 endpoint(s) beneath base path '/actuator'
+20339 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol –Starting ProtocolHandler ["http-nio-8082"]
+20447 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer –Tomcat started on port(s): 8082 (http) with context path ''
+20558 [restartedMain] INFO  com.example.demo.DemoApplication –Started DemoApplication in 19.158 seconds (JVM running for 21.485)
+2918 [restartedMain] INFO  com.example.demo.DemoApplication –Starting DemoApplication using Java 11.0.5 on DESKTOP-ILP6FKH with PID 9884 (C:\Users\Danya\IdeaProjects\DanilNachalo20\target\classes started by Danya in C:\Users\Danya\IdeaProjects\DanilNachalo20)
+2918 [restartedMain] INFO  com.example.demo.DemoApplication –No active profile set, falling back to default profiles: default
+2918 [background-preinit] INFO  o.h.validator.internal.util.Version –HV000001: Hibernate Validator 6.1.7.Final
+3246 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor –Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+3246 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor –For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+6318 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate –Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+6424 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate –Finished Spring Data repository scanning in 93 ms. Found 2 JPA repository interfaces.
+8896 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer –Tomcat initialized with port(s): 8082 (http)
+8928 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol –Initializing ProtocolHandler ["http-nio-8082"]
+8928 [restartedMain] INFO  o.a.catalina.core.StandardService –Starting service [Tomcat]
+8928 [restartedMain] INFO  o.a.catalina.core.StandardEngine –Starting Servlet engine: [Apache Tomcat/9.0.45]
+9225 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] –Initializing Spring embedded WebApplicationContext
+9225 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext –Root WebApplicationContext: initialization completed in 5979 ms
+9875 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper –HHH000204: Processing PersistenceUnitInfo [name: default]
+9984 [restartedMain] INFO  org.hibernate.Version –HHH000412: Hibernate ORM core version 5.4.30.Final
+10273 [restartedMain] INFO  o.h.annotations.common.Version –HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+10507 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource –HikariPool-1 - Starting...
+11023 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource –HikariPool-1 - Start completed.
+11070 [restartedMain] INFO  org.hibernate.dialect.Dialect –HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+12994 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator –HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+13009 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean –Initialized JPA EntityManagerFactory for persistence unit 'default'
+13041 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer –LiveReload server is running on port 35729
+14235 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration –spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+14546 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor –Initializing ExecutorService 'applicationTaskExecutor'
+15321 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver –Exposing 2 endpoint(s) beneath base path '/actuator'
+15384 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol –Starting ProtocolHandler ["http-nio-8082"]
+15415 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer –Tomcat started on port(s): 8082 (http) with context path ''
+15446 [restartedMain] INFO  com.example.demo.DemoApplication –Started DemoApplication in 13.85 seconds (JVM running for 16.282)
+134050 [http-nio-8082-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] –Initializing Spring DispatcherServlet 'dispatcherServlet'
+134051 [http-nio-8082-exec-1] INFO  o.s.web.servlet.DispatcherServlet –Initializing Servlet 'dispatcherServlet'
+134053 [http-nio-8082-exec-1] INFO  o.s.web.servlet.DispatcherServlet –Completed initialization in 2 ms
+134115 [http-nio-8082-exec-1] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+134171 [http-nio-8082-exec-1] INFO  c.e.demo.service.WorkerService –Found all workers
+134498 [http-nio-8082-exec-1] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+134520 [http-nio-8082-exec-1] INFO  c.e.demo.service.ManufactureService –Found all manufactures
+153116 [http-nio-8082-exec-2] INFO  com.example.demo.aspect.Aspect –Parameters: Manufacture(id=null, name=Даниил, address=Ул. Студенческая 33, workerList=null)
+153144 [http-nio-8082-exec-2] INFO  c.e.demo.service.ManufactureService –Added new manufacture Manufacture(id=null, name=Даниил, address=Ул. Студенческая 33, workerList=null)
+153264 [http-nio-8082-exec-3] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+153264 [http-nio-8082-exec-3] INFO  c.e.demo.service.WorkerService –Found all workers
+153272 [http-nio-8082-exec-3] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+153273 [http-nio-8082-exec-3] INFO  c.e.demo.service.ManufactureService –Found all manufactures
+159004 [http-nio-8082-exec-4] INFO  com.example.demo.aspect.Aspect –Parameters: Даниил
+159005 [http-nio-8082-exec-4] INFO  c.e.demo.service.ManufactureService –Found manufacture id with name Даниил
+159047 [http-nio-8082-exec-4] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] –Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.IncorrectResultSizeDataAccessException: query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2] with root cause
+javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:128)
+	at org.hibernate.query.internal.AbstractProducedQuery.getSingleResult(AbstractProducedQuery.java:1648)
+	at org.hibernate.query.criteria.internal.compile.CriteriaQueryTypeQueryAdapter.getSingleResult(CriteriaQueryTypeQueryAdapter.java:111)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$SingleEntityExecution.doExecute(JpaQueryExecution.java:196)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:88)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:155)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:143)
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.doInvoke(RepositoryMethodInvoker.java:137)
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.invoke(RepositoryMethodInvoker.java:121)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:152)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:131)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:388)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:145)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at com.sun.proxy.$Proxy111.findByName(Unknown Source)
+	at com.example.demo.service.ManufactureService.getManufactureId(ManufactureService.java:84)
+	at com.example.demo.service.ManufactureService$$FastClassBySpringCGLIB$$b045dda7.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:779)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:58)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:692)
+	at com.example.demo.service.ManufactureService$$EnhancerBySpringCGLIB$$aa098edc.getManufactureId(<generated>)
+	at com.example.demo.cotroller.mycontroller.addWorker(mycontroller.java:51)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+166310 [http-nio-8082-exec-5] INFO  com.example.demo.aspect.Aspect –Parameters: Apple
+166310 [http-nio-8082-exec-5] INFO  c.e.demo.service.ManufactureService –Found manufacture id with name Apple
+166313 [http-nio-8082-exec-5] INFO  com.example.demo.aspect.Aspect –Parameters: 61
+166314 [http-nio-8082-exec-5] INFO  c.e.demo.service.ManufactureService –Found manufacture by id 61
+166318 [http-nio-8082-exec-5] INFO  com.example.demo.aspect.Aspect –Parameters: [FAILED toString()]
+166422 [http-nio-8082-exec-5] INFO  c.e.demo.service.WorkerService –Added new worker [FAILED toString()]
+166517 [http-nio-8082-exec-6] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+166522 [http-nio-8082-exec-6] INFO  c.e.demo.service.WorkerService –Found all workers
+166529 [http-nio-8082-exec-6] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+166529 [http-nio-8082-exec-6] INFO  c.e.demo.service.ManufactureService –Found all manufactures
+172713 [http-nio-8082-exec-7] INFO  com.example.demo.aspect.Aspect –Parameters: 44
+172713 [http-nio-8082-exec-7] INFO  c.e.demo.service.WorkerService –Got worker by card
+172723 [http-nio-8082-exec-7] INFO  com.example.demo.aspect.Aspect –Parameters: 44
+172723 [http-nio-8082-exec-7] INFO  c.e.demo.service.WorkerService –Got worker by card
+172724 [http-nio-8082-exec-7] INFO  com.example.demo.aspect.Aspect –Parameters: 44
+172725 [http-nio-8082-exec-7] INFO  c.e.demo.service.WorkerService –Got worker by card
